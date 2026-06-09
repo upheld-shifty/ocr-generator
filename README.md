@@ -2,6 +2,8 @@
 
 Lokale Streamlit-App: gescannte PDFs hochladen → durchsuchbares PDF herunterladen.
 
+![Screenshot der App](screenshot.png)
+
 ---
 
 ## 1. Systemabhängigkeiten installieren (macOS / Homebrew)
